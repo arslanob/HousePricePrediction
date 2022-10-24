@@ -49,6 +49,8 @@ Built with [![Python][python.org]][python-url]
 
 [Presentation Link](https://docs.google.com/presentation/d/131rNDbu5CRxiomtvqilrO-jkIkx4tnZEuwmPue5hidk/edit?usp=sharing)
 
+
+
 [![Presentation](https://github.com/arslanob/HousePricePrediction/blob/main/images/mainpresetation.png)](https://docs.google.com/presentation/d/131rNDbu5CRxiomtvqilrO-jkIkx4tnZEuwmPue5hidk/edit?usp=sharing)
 
 ## Screenshots
